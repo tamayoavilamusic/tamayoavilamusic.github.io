@@ -113,8 +113,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Theo Avila"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "climate dynamics and climate impacts "
   location         : "Urbana-Champaign"
   email            : 
