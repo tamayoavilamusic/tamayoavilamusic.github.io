@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Theo Avila"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio-photo.jpg"
   bio              : "climate dynamics and climate impacts "
   location         : "Urbana-Champaign"
   email            : 
