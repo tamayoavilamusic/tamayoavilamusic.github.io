@@ -8,7 +8,8 @@ header:
 ---
 
 ### in preparation
-Dynamical Downscaling Improvements in the Simulation of Sub-Annual U.S. East Coast Sea Level. Jacob Steinberg et al.
+**Avila, T. C.**, Lafferty, D. C., Alam, T., Sriver, R. L. Uncertainty quantification of projected maize
+yield shocks under compound soil moisture–temperature extremes.
 
 ### submitted
 
