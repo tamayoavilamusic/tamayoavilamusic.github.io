@@ -121,10 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ctavila2@illinois.edu"
+      url: "mailto:ctavila2@illinois.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/theo-avila"
+      url: "https://github.com/theo-avila"
     - label: "google scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=I78J_PgAAAAJ&hl=en"
