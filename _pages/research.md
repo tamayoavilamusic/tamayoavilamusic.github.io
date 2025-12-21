@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-**Uncertainty and Statistical Downscaling**
+**Uncertainty and statistical downscaling**
 
-At the University of Illinois Urbana-Champaign (UIUC), much of my time has been spent understanding uncertainties in climate impact projections. 
+At the University of Illinois Urbana-Champaign, with [Ryan Sriver](https://rsriver.web.illinois.edu/) and the [Program on Coupled Human and Earth Systems](https://www.pches.psu.edu/), I work on statistical and structural uncertainty in climate impact projections (e.g., fire weather and crop yield projections).
 
-**Ocean Circulation**
+**Sea surface height and climate modes**
 
-I spent two summers at the Geophysical Fluid dynamics Laboratory within the Ocean division. My first summer I spent working on machine learning methods for diagnosing the manifestation of sea surface height in climate modes. My second summer was spent on water mass transformation analysis and forced response of surface water mass transformation analysis in the Arctic. 
+At NOAA's Geophysical Fluid Dynamics Laboratory (GFDL), I spent two summers within the [Ocean Division](https://www.gfdl.noaa.gov/ocean-and-cryosphere-division/) on machine learning methods to diagnose how large-scale climate modes manifest in sea surface height across observations and ocean or Earth system model output. I also worked on water-mass transformation diagnostics, focusing on surface transformation and its forced response in the Arctic under forced climate model experiments.
