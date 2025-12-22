@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Theo Avila"
+title                    : "Tamayo Avila"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Theo Avila"
+name                     : "Tamayo Avila"
 description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,21 +113,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Theo Avila"
+  name             : "Tamayo Avila"
   avatar           : "/assets/bio-photo.jpg"
-  bio              : "climate dynamics & impacts"
-  location         : "Urbana-Champaign"
+  bio              : "musician/composer/teacher"
+  location         : "Los Angeles"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ctavila2@illinois.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/theo-avila"
-    - label: "google scholar"
+      url: "mailto:tamayomusic2@gmail.com"
+    - label: "instagram"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=I78J_PgAAAAJ&hl=en"
+      url: "https://www.instagram.com/tamayo.avila/"
 
 
 
