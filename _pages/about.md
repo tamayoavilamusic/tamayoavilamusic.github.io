@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "about"
-permalink: /publications/
+permalink: /about/
 author_profile: true
 header:
   image: /assets/publications.png
