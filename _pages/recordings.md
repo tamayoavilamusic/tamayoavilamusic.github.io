@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Recordings"
-permalink: /research/
+permalink: /recordings/
 author_profile: true
 ---
 
