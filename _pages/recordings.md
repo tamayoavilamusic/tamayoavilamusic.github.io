@@ -5,8 +5,9 @@ permalink: /recordings/
 author_profile: true
 ---
 
-**Uncertainty and statistical downscaling**
+**[Galaxy by Eddie Henderson]([url](https://youtu.be/QhRj-1FmRYo))**
 
+https://youtu.be/QhRj-1FmRYo
 At the University of Illinois Urbana-Champaign, with [Ryan Sriver](https://rsriver.web.illinois.edu/) and the [Program on Coupled Human and Earth Systems](https://www.pches.psu.edu/), I work on statistical and structural uncertainty in climate impact projections (e.g., fire weather and crop yield projections).
 
 **Sea surface height and climate modes**
