@@ -7,6 +7,8 @@ author_profile: true
 
 **[Galaxy by Eddie Henderson]([https://youtu.be/QhRj-1FmRYo])**
 
+<iframe width="640" height="360" src="https://youtu.be/QhRj-1FmRYo" frameborder="0" allowfullscreen=""></iframe>
+
 https://youtu.be/QhRj-1FmRYo
 At the University of Illinois Urbana-Champaign, with [Ryan Sriver](https://rsriver.web.illinois.edu/) and the [Program on Coupled Human and Earth Systems](https://www.pches.psu.edu/), I work on statistical and structural uncertainty in climate impact projections (e.g., fire weather and crop yield projections).
 
